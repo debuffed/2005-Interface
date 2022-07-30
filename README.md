@@ -20,11 +20,12 @@ How to setup:
 
 ![8b37e36cb3d61e3173f9c3ebeaea9619](https://user-images.githubusercontent.com/104665265/181866340-7d73d3a4-9b9b-42dc-9c14-0e80ca1ec0a0.png)
 
-3. Download this file as a zip, (Click the Green button where it says code) extract it to: C:\Users\USERNAME\.runelite\resource-packs-repository
+3. Download this file as a zip, (Click the Green button where it says code) and extract it.
 
 4. Paste the path of the 2005 folder into "Resource packs" settings like so: 
 
-![0d4044a20e8418dd6830644a6a7204ec](https://user-images.githubusercontent.com/104665265/181866105-b0c3cd49-a4f8-4c99-a81d-622cf9edeeeb.png)
+![fb73eb334c704304a74aa9d31aebd9d9](https://user-images.githubusercontent.com/104665265/181867508-4c1d53bb-ff18-4450-9e05-f222e7d7f23e.png)
+
 
 5. Select "First" here: 
 
