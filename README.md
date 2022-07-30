@@ -1,12 +1,13 @@
-Go to the Interface Styles plugin on runelite and choose the 2005 Gameframe.
+1. Go to the Interface Styles plugin on runelite and choose the 2005 Gameframe.
 
-Add "Resource packs" plugin on Runelite from the Plugin Hub section. 
+
+2. Add "Resource packs" plugin on Runelite from the Plugin Hub section. 
 
 ![Capture](https://user-images.githubusercontent.com/104665265/181866292-5040da40-74b8-4539-9894-599cacb82bb2.PNG)
 
 ![8b37e36cb3d61e3173f9c3ebeaea9619](https://user-images.githubusercontent.com/104665265/181866340-7d73d3a4-9b9b-42dc-9c14-0e80ca1ec0a0.png)
 
-Download this file as a zip, extract it to: C:\Users\USERNAME\.runelite\resource-packs-repository
+3. Download this file as a zip, extract it to: C:\Users\USERNAME\.runelite\resource-packs-repository
 
 Paste the path of the 2005 folder into "Resource packs" settings like so: 
 
