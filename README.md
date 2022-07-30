@@ -1,4 +1,4 @@
-2005 Interface for Runelite.
+## 2005 Interface for Runelite.
 ![2022-07-30_07-56-14](https://user-images.githubusercontent.com/104665265/181876933-db2fa8f3-0f45-4d29-bf0b-1783588808f5.png)
 
 
@@ -9,7 +9,7 @@
 
 
 
-How to setup: 
+## Setup: 
 
 1. Go to the Interface Styles plugin on Runelite and choose the 2005 Gameframe.
 
