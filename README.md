@@ -8,7 +8,7 @@
 
 
 
-How to Install: 
+How to setup: 
 
 1. Go to the Interface Styles plugin on runelite and choose the 2005 Gameframe.
 
