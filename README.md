@@ -1,6 +1,6 @@
 A more authentic 2005 Interface for Runelite.
-![2022-07-30_04-28-36(1)](https://user-images.githubusercontent.com/104665265/181866753-d0ffbb78-f30c-4433-b5fd-4aacb33f571e.png)
-![2022-07-30_04-36-45](https://user-images.githubusercontent.com/104665265/181866979-6a2f553c-fe06-4870-b1de-b4d80ad4de25.png)
+![2022-07-30_07-56-14](https://user-images.githubusercontent.com/104665265/181876933-db2fa8f3-0f45-4d29-bf0b-1783588808f5.png)
+
 
 
 
