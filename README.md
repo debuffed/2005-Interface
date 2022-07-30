@@ -25,7 +25,7 @@ Paste the path of the 2005 folder into "Resource packs" settings like so:
 
 ![0d4044a20e8418dd6830644a6a7204ec](https://user-images.githubusercontent.com/104665265/181866105-b0c3cd49-a4f8-4c99-a81d-622cf9edeeeb.png)
 
-Choose First here: 
+Select "First" here: 
 
 ![89a7996426b7e9578701b6403f1f7f5d](https://user-images.githubusercontent.com/104665265/181866143-a81bef27-2329-4a6f-8a1d-e4ca0c13b899.png)
 
