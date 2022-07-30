@@ -1,5 +1,6 @@
 ## 2005 Interface for Runelite.
-![2022-07-30_07-56-14](https://user-images.githubusercontent.com/104665265/181876933-db2fa8f3-0f45-4d29-bf0b-1783588808f5.png)
+![2022-07-30_20-38-43](https://user-images.githubusercontent.com/104665265/181937142-abd77cf4-db72-4ee4-9eaa-d600db5ea21e.png)
+
 
 
 
