@@ -22,7 +22,7 @@
 
 3. Download the file here on github as a zip, (Click the Green button where it says code) and extract it.
 
-4. Paste the path of the 2005 folder into "Resource packs" settings like so: 
+4. Paste the path of the downloaded and extracted 2005 folder into "Resource packs" settings like so: 
 
 ![fb73eb334c704304a74aa9d31aebd9d9](https://user-images.githubusercontent.com/104665265/181867508-4c1d53bb-ff18-4450-9e05-f222e7d7f23e.png)
 
