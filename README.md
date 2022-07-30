@@ -10,7 +10,7 @@
 
 How to setup: 
 
-1. Go to the Interface Styles plugin on runelite and choose the 2005 Gameframe.
+1. Go to the Interface Styles plugin on Runelite and choose the 2005 Gameframe.
 
 
 2. Add "Resource packs" plugin on Runelite from the Plugin Hub section. 
