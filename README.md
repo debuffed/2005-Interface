@@ -4,7 +4,8 @@
 
 
 ## 2006 Interface
-![2022-08-01_05-43-09](https://user-images.githubusercontent.com/104665265/182068086-bf1bd532-4ea9-45ee-a638-cdddda01d1a1.png)
+![2022-08-01_05-57-17](https://user-images.githubusercontent.com/104665265/182069421-42dada00-e868-4d7d-af38-a0c59247a0d5.png)
+
 
 
 
