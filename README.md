@@ -1,9 +1,10 @@
-## 2005 Interface for Runelite
+## 2005 Interface
 ![2022-08-01_05-21-36](https://user-images.githubusercontent.com/104665265/182065857-afd9e1d4-1607-4f5a-b62c-b71e5378bd16.png)
 
 
 
-
+## 2006 Interface
+![2022-08-01_05-43-09](https://user-images.githubusercontent.com/104665265/182068086-bf1bd532-4ea9-45ee-a638-cdddda01d1a1.png)
 
 
 
@@ -15,7 +16,7 @@
 
 ## Setup: 
 
-1. Go to the "Interface Styles" plugin on Runelite and select the 2005 Gameframe.
+1. Go to the "Interface Styles" plugin on Runelite and select the 2005/2006 Gameframe.
 
 
 2. Add "Resource packs" plugin on Runelite from the Plugin Hub section. 
@@ -26,7 +27,7 @@
 
 3. Download the file here on github as a zip, (Click the Green button where it says code) and extract it.
 
-4. Paste the path of the 2005 folder into "Resource packs" settings like so: 
+4. Paste the path of the 2005/2006 folder into "Resource packs" settings like so: 
 
 ![fb73eb334c704304a74aa9d31aebd9d9](https://user-images.githubusercontent.com/104665265/181867508-4c1d53bb-ff18-4450-9e05-f222e7d7f23e.png)
 
@@ -39,4 +40,4 @@
 
 ![2022-07-30_04-31-25](https://user-images.githubusercontent.com/104665265/181866903-d638b5a6-6fde-4ca5-a563-6d4816ebc27d.png)
 
-If any of my changes are not to your liking, simply go into the 2005 folder and delete whichever files you didn't like and it'll revert back to Runelite's version. Then just turn Resource packs plugin off and on again. 
+If any of my changes are not to your liking, simply go into the 2005/2006 folder and delete whichever files you didn't like and it'll revert back to Runelite's version. Then just turn Resource packs plugin off and on again. 
