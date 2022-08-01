@@ -1,5 +1,7 @@
 ## 2005 Interface for Runelite
-![2022-07-30_20-46-31](https://user-images.githubusercontent.com/104665265/181937458-c5b99b72-e83c-407d-bea6-bccd59dabcc7.png)
+![2022-08-01_05-21-36](https://user-images.githubusercontent.com/104665265/182065857-afd9e1d4-1607-4f5a-b62c-b71e5378bd16.png)
+
+
 
 
 
@@ -36,3 +38,5 @@
 ### Done! 
 
 ![2022-07-30_04-31-25](https://user-images.githubusercontent.com/104665265/181866903-d638b5a6-6fde-4ca5-a563-6d4816ebc27d.png)
+
+If any of my changes are not to your liking, simply go into the 2005 folder and delete whichever files you didn't like and it'll revert back to Runelite's version. Then just turn Resource packs plugin off and on again. 
