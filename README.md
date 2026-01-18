@@ -19,7 +19,7 @@ An improved version of Runelite's 2005 interface.
 
 ![ResourcePacksOption](https://github.com/debuffed/resource-packs/assets/104665265/d2bab5b1-8c4e-4b47-9460-0e3abc076c75)
 
-4. Click on the Resource packs plugin in the side bar and search for and select the 2005 Overhaul pack.
+4. Click on the Resource packs plugin in the side bar of Runelite and search for and select the 2005 Overhaul pack.
 
 ![Sidebar](https://github.com/user-attachments/assets/02649ba9-b2e7-41ea-9c56-12514fe2ac3b
 )
