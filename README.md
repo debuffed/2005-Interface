@@ -1,7 +1,7 @@
 An improved version of Runelite's 2005 interface. 
 
 ## Interface
-![2005Interface](<img width="765" height="503" alt="2005" src="https://github.com/user-attachments/assets/05c687ce-e764-4df5-bef1-f2eddc3406f8" />
+![2005Interface](https://github.com/user-attachments/assets/05c687ce-e764-4df5-bef1-f2eddc3406f8
 )
 
 
@@ -12,7 +12,7 @@ An improved version of Runelite's 2005 interface.
 
 2. Download the Resource packs plugin from the plugin hub in Runelite.
 
-![Resource packs plugin](<img width="243" height="293" alt="S3QvlAB" src="https://github.com/user-attachments/assets/bffa0b82-f3a4-41d9-9d55-9c22aa50dbfe" />
+![Resource packs plugin](https://github.com/user-attachments/assets/bffa0b82-f3a4-41d9-9d55-9c22aa50dbfe
 )
 
 3. Go to the Resource packs plugin settings and make sure the "Don't change Interface Styles" option at the bottom is turned on. 
@@ -21,7 +21,7 @@ An improved version of Runelite's 2005 interface.
 
 4. Click on the Resource packs plugin in the side bar and search for and select the 2005 Overhaul pack.
 
-![Sidebar](<img width="242" height="271" alt="rOZujwZ" src="https://github.com/user-attachments/assets/02649ba9-b2e7-41ea-9c56-12514fe2ac3b" />
+![Sidebar](https://github.com/user-attachments/assets/02649ba9-b2e7-41ea-9c56-12514fe2ac3b
 )
 
 6. Disable and re-enable the Resource packs plugin.
